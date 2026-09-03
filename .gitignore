@@ -1,0 +1,16 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+data/state.json
+data/trade_history.json
+data/universe_cache.json
+*.log
+.DS_Store
+data/learning_memory.json
+
+data/telegram/
